@@ -5,11 +5,11 @@
   "main": "alternative.js",
   "scripts": {
     "start": "nodemon app.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.3",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
